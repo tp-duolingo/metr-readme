@@ -1,25 +1,44 @@
-# Hi there
+# Hi there 👋, I'm Metr!
 
-I'm Metr, welcome to my profile!
+![Profile Views](https://komarev.com/ghpvc/?username=tp-duolingo&color=green)
+
+Welcome to my GitHub profile! I'm passionate about using markdown and HTML.
 
 ## About Me
 
-- 17 years old Turkish
-- "Full Stack" language student ^_~
-- Old game developer
-- Pretty good at creating, managing and designing Discord servers
-- Also pretty good at writing markdown files
-- Translator on Crowdin (when I feel like doing so)
-- Epic gamer
-- Future support member of  FalixNodes
-- Current owner of CarFigures
-- Music addict
-- Can into being friends with you ^_^
+- 💻 I’m currently working on markdown projects. Though none of them are public, yet.
+- 🌱 I’m currently learning advanced English.
+- 👯 I’m looking to work with people.
+- 🤔 I’m looking for help with Python.
+- 💬 Ask me anything about markdown and HTML.
+- ⚡ Fun fact: I love languages and am fluent in 2 different ones! (Turkish and English for now 😅)
 
-## Contact Me
+## My Skills
 
-- Discord: `_metr_`
-- Steam: (check my Discord profile)
+- Very well gaming
+- Storytelling
+- Managing communities
+- Talking about politics
+- Geography
+
+### Programming Languages
+
+- Markdown
+- HTML
+
+### Tools & Technologies
+
+- GitHub
+- Virtual Studio Code
+- Git
+- Docker
+
+## Connect with Me
+
+- Discord: ``_metr_``
+- Email: [clickable link](mailto:tpduolingo0001@gmail.com)
+
+Thanks for visiting my profile <3
 
 [![Metr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tp-duolingo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-duolingo)](https://github.com/anuraghazra/github-readme-stats)
