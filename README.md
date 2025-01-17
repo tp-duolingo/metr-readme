@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about using markdown and HTML.
 ### Tools & Technologies
 
 - GitHub
-- Virtual Studio Code
+- Visual Studio Code
 - Git
 - Docker
 
